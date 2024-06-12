@@ -7814,7 +7814,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 19.05 102.235 90)
 			(effects
 				(font
@@ -8017,7 +8017,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 73.025 88.9 90)
 			(effects
 				(font
@@ -8544,7 +8544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 34.925 171.45 0)
 			(effects
 				(font
@@ -9794,7 +9794,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 97.79 182.8799 0)
 			(effects
 				(font
@@ -10301,7 +10301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 100.965 171.45 0)
 			(effects
 				(font
@@ -10637,7 +10637,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 30.48 182.8799 0)
 			(effects
 				(font
@@ -10842,7 +10842,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 64.77 182.8799 0)
 			(effects
 				(font
@@ -11051,7 +11051,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 18.415 88.9 90)
 			(effects
 				(font
@@ -11279,7 +11279,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 133.985 171.45 0)
 			(effects
 				(font
@@ -12107,7 +12107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 67.945 171.45 0)
 			(effects
 				(font
@@ -12531,7 +12531,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 130.81 182.8799 0)
 			(effects
 				(font

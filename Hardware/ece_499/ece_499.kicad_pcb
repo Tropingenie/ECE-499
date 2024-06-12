@@ -255,7 +255,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(uuid "72248e78-81ad-40f8-87cf-1a7fd75c4359")
@@ -1091,7 +1091,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2673,7 +2673,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R16"
-			(at 0 -1.82 360)
+			(at 0 -1.82 0)
 			(layer "F.SilkS")
 			(uuid "d5142a57-d087-4d7a-8c3d-0a050a3977e0")
 			(effects
@@ -2683,8 +2683,8 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
-			(at 0 1.82 360)
+		(property "Value" "3k"
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "83e3aa9f-8c70-466f-9968-d98e1693a228")
 			(effects
@@ -2839,7 +2839,7 @@
 			(uuid "36ae7b3b-212f-4b21-8a85-0dfe74ee39a6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "7e2e9e04-1e4d-4f76-a674-d63afeae7cca")
 			(effects
@@ -3451,7 +3451,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3677,7 +3677,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(uuid "cbb02247-9b91-4217-832f-16bf1341aaef")
@@ -4798,7 +4798,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(uuid "65506502-1662-43b9-b273-8c9b0dd49ca0")
@@ -6256,7 +6256,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R15"
-			(at 0 -1.82 360)
+			(at 0 -1.82 0)
 			(layer "F.SilkS")
 			(uuid "a8098d8e-1df5-4bcd-9091-6d050393106d")
 			(effects
@@ -6266,8 +6266,8 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
-			(at 0 1.82 360)
+		(property "Value" "3k"
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(uuid "5c4407d6-805f-43f7-8c5a-16253dba014d")
 			(effects
@@ -6422,7 +6422,7 @@
 			(uuid "ca317e2e-cbbf-4753-a572-4bc52d8612de")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "085e8857-ec9b-4a8b-b62f-5c7b663137b7")
 			(effects
@@ -6817,7 +6817,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(uuid "03fc8b01-c8e2-4456-b3c3-d3ad655c0fff")
@@ -22455,7 +22455,7 @@
 		)
 		(fp_arc
 			(start 17.4008 1.4648)
-			(mid 17.355295 1.5203)
+			(mid 17.355205 1.5204)
 			(end 17.2997 1.4748)
 			(stroke
 				(width 0.2)
@@ -22466,7 +22466,7 @@
 		)
 		(fp_arc
 			(start 14.8608 1.4648)
-			(mid 14.815205 1.5204)
+			(mid 14.815295 1.5203)
 			(end 14.7597 1.4748)
 			(stroke
 				(width 0.2)
@@ -22477,7 +22477,7 @@
 		)
 		(fp_arc
 			(start 12.3208 1.4648)
-			(mid 12.275295 1.5203)
+			(mid 12.275205 1.5204)
 			(end 12.2197 1.4748)
 			(stroke
 				(width 0.2)
@@ -22488,7 +22488,7 @@
 		)
 		(fp_arc
 			(start 9.7808 1.4648)
-			(mid 9.735295 1.5203)
+			(mid 9.735205 1.5204)
 			(end 9.6797 1.4748)
 			(stroke
 				(width 0.2)
@@ -22499,7 +22499,7 @@
 		)
 		(fp_arc
 			(start 7.2408 1.4648)
-			(mid 7.195295 1.5203)
+			(mid 7.195205 1.5204)
 			(end 7.1397 1.4748)
 			(stroke
 				(width 0.2)
@@ -22510,7 +22510,7 @@
 		)
 		(fp_arc
 			(start 4.7008 1.4648)
-			(mid 4.655295 1.5203)
+			(mid 4.655205 1.5204)
 			(end 4.5997 1.4748)
 			(stroke
 				(width 0.2)
@@ -22521,7 +22521,7 @@
 		)
 		(fp_arc
 			(start 2.1608 1.4648)
-			(mid 2.11525 1.520295)
+			(mid 2.115241 1.520305)
 			(end 2.0597 1.4748)
 			(stroke
 				(width 0.2)
@@ -24138,7 +24138,7 @@
 		)
 		(fp_arc
 			(start 17.4349 1.7377)
-			(mid 17.438424 1.70198)
+			(mid 17.438475 1.70192)
 			(end 17.4742 1.7055)
 			(stroke
 				(width 0.2)
@@ -24149,7 +24149,7 @@
 		)
 		(fp_arc
 			(start 14.8949 1.7377)
-			(mid 14.898424 1.70198)
+			(mid 14.898475 1.70192)
 			(end 14.9342 1.7055)
 			(stroke
 				(width 0.2)
@@ -24160,7 +24160,7 @@
 		)
 		(fp_arc
 			(start 12.3549 1.7377)
-			(mid 12.358424 1.70198)
+			(mid 12.358475 1.70192)
 			(end 12.3942 1.7055)
 			(stroke
 				(width 0.2)
@@ -24171,7 +24171,7 @@
 		)
 		(fp_arc
 			(start 9.8149 1.7377)
-			(mid 9.818424 1.70198)
+			(mid 9.818475 1.70192)
 			(end 9.8542 1.7055)
 			(stroke
 				(width 0.2)
@@ -24182,7 +24182,7 @@
 		)
 		(fp_arc
 			(start 7.2749 1.7377)
-			(mid 7.278424 1.70198)
+			(mid 7.278475 1.70192)
 			(end 7.3142 1.7055)
 			(stroke
 				(width 0.2)
@@ -24193,7 +24193,7 @@
 		)
 		(fp_arc
 			(start 4.7349 1.7377)
-			(mid 4.738424 1.70198)
+			(mid 4.738475 1.70192)
 			(end 4.7742 1.7055)
 			(stroke
 				(width 0.2)
@@ -24204,7 +24204,7 @@
 		)
 		(fp_arc
 			(start 2.1949 1.7377)
-			(mid 2.198424 1.70198)
+			(mid 2.198475 1.70192)
 			(end 2.2342 1.7055)
 			(stroke
 				(width 0.2)
@@ -24677,7 +24677,7 @@
 		)
 		(fp_arc
 			(start 18.6401 1.8078)
-			(mid 18.67582 1.811324)
+			(mid 18.67588 1.811375)
 			(end 18.6723 1.8471)
 			(stroke
 				(width 0.2)
@@ -24688,7 +24688,7 @@
 		)
 		(fp_arc
 			(start 16.1001 1.8078)
-			(mid 16.13588 1.811375)
+			(mid 16.13582 1.811324)
 			(end 16.1323 1.8471)
 			(stroke
 				(width 0.2)
@@ -24699,7 +24699,7 @@
 		)
 		(fp_arc
 			(start 13.5601 1.8078)
-			(mid 13.59582 1.811324)
+			(mid 13.59588 1.811375)
 			(end 13.5923 1.8471)
 			(stroke
 				(width 0.2)
@@ -24710,7 +24710,7 @@
 		)
 		(fp_arc
 			(start 11.0201 1.8078)
-			(mid 11.05582 1.811324)
+			(mid 11.05588 1.811375)
 			(end 11.0523 1.8471)
 			(stroke
 				(width 0.2)
@@ -24721,7 +24721,7 @@
 		)
 		(fp_arc
 			(start 8.4801 1.8078)
-			(mid 8.51582 1.811324)
+			(mid 8.51588 1.811375)
 			(end 8.5123 1.8471)
 			(stroke
 				(width 0.2)
@@ -24732,7 +24732,7 @@
 		)
 		(fp_arc
 			(start 5.9401 1.8078)
-			(mid 5.97582 1.811324)
+			(mid 5.97588 1.811375)
 			(end 5.9723 1.8471)
 			(stroke
 				(width 0.2)
@@ -24743,7 +24743,7 @@
 		)
 		(fp_arc
 			(start 3.4001 1.8078)
-			(mid 3.43582 1.811324)
+			(mid 3.43588 1.811375)
 			(end 3.4323 1.8471)
 			(stroke
 				(width 0.2)
@@ -24754,7 +24754,7 @@
 		)
 		(fp_arc
 			(start 17.561 1.8113)
-			(mid 17.557425 1.84708)
+			(mid 17.557476 1.84702)
 			(end 17.5217 1.8435)
 			(stroke
 				(width 0.2)
@@ -24765,7 +24765,7 @@
 		)
 		(fp_arc
 			(start 15.021 1.8113)
-			(mid 15.017425 1.84708)
+			(mid 15.017476 1.84702)
 			(end 14.9817 1.8435)
 			(stroke
 				(width 0.2)
@@ -24776,7 +24776,7 @@
 		)
 		(fp_arc
 			(start 12.481 1.8113)
-			(mid 12.477425 1.84708)
+			(mid 12.477476 1.84702)
 			(end 12.4417 1.8435)
 			(stroke
 				(width 0.2)
@@ -24787,7 +24787,7 @@
 		)
 		(fp_arc
 			(start 9.941 1.8113)
-			(mid 9.937425 1.84708)
+			(mid 9.937476 1.84702)
 			(end 9.9017 1.8435)
 			(stroke
 				(width 0.2)
@@ -24798,7 +24798,7 @@
 		)
 		(fp_arc
 			(start 7.401 1.8113)
-			(mid 7.397425 1.84708)
+			(mid 7.397476 1.84702)
 			(end 7.3617 1.8435)
 			(stroke
 				(width 0.2)
@@ -24809,7 +24809,7 @@
 		)
 		(fp_arc
 			(start 4.861 1.8113)
-			(mid 4.857425 1.84708)
+			(mid 4.857476 1.84702)
 			(end 4.8217 1.8435)
 			(stroke
 				(width 0.2)
@@ -24820,7 +24820,7 @@
 		)
 		(fp_arc
 			(start 2.321 1.8113)
-			(mid 2.317425 1.84708)
+			(mid 2.317476 1.84702)
 			(end 2.2817 1.8435)
 			(stroke
 				(width 0.2)
@@ -25744,7 +25744,7 @@
 		)
 		(fp_arc
 			(start 18.5665 1.9339)
-			(mid 18.53078 1.930376)
+			(mid 18.53072 1.930325)
 			(end 18.5343 1.8946)
 			(stroke
 				(width 0.2)
@@ -25755,7 +25755,7 @@
 		)
 		(fp_arc
 			(start 16.0265 1.9339)
-			(mid 15.99072 1.930325)
+			(mid 15.99078 1.930376)
 			(end 15.9943 1.8946)
 			(stroke
 				(width 0.2)
@@ -25766,7 +25766,7 @@
 		)
 		(fp_arc
 			(start 13.4865 1.9339)
-			(mid 13.45078 1.930376)
+			(mid 13.45072 1.930325)
 			(end 13.4543 1.8946)
 			(stroke
 				(width 0.2)
@@ -25777,7 +25777,7 @@
 		)
 		(fp_arc
 			(start 10.9465 1.9339)
-			(mid 10.91072 1.930325)
+			(mid 10.91078 1.930376)
 			(end 10.9143 1.8946)
 			(stroke
 				(width 0.2)
@@ -25788,7 +25788,7 @@
 		)
 		(fp_arc
 			(start 8.4065 1.9339)
-			(mid 8.37078 1.930376)
+			(mid 8.37072 1.930325)
 			(end 8.3743 1.8946)
 			(stroke
 				(width 0.2)
@@ -25799,7 +25799,7 @@
 		)
 		(fp_arc
 			(start 5.8665 1.9339)
-			(mid 5.83072 1.930325)
+			(mid 5.83078 1.930376)
 			(end 5.8343 1.8946)
 			(stroke
 				(width 0.2)
@@ -25810,7 +25810,7 @@
 		)
 		(fp_arc
 			(start 3.3265 1.9339)
-			(mid 3.29078 1.930376)
+			(mid 3.29072 1.930325)
 			(end 3.2943 1.8946)
 			(stroke
 				(width 0.2)
@@ -26437,7 +26437,7 @@
 		)
 		(fp_arc
 			(start 18.2936 1.968)
-			(mid 18.3491 2.013505)
+			(mid 18.3492 2.013595)
 			(end 18.3036 2.0691)
 			(stroke
 				(width 0.2)
@@ -26448,7 +26448,7 @@
 		)
 		(fp_arc
 			(start 15.7536 1.968)
-			(mid 15.8091 2.013505)
+			(mid 15.8092 2.013595)
 			(end 15.7636 2.0691)
 			(stroke
 				(width 0.2)
@@ -26459,7 +26459,7 @@
 		)
 		(fp_arc
 			(start 13.2136 1.968)
-			(mid 13.2691 2.013505)
+			(mid 13.2692 2.013595)
 			(end 13.2236 2.0691)
 			(stroke
 				(width 0.2)
@@ -26470,7 +26470,7 @@
 		)
 		(fp_arc
 			(start 10.6736 1.968)
-			(mid 10.7291 2.013505)
+			(mid 10.7292 2.013595)
 			(end 10.6836 2.0691)
 			(stroke
 				(width 0.2)
@@ -26481,7 +26481,7 @@
 		)
 		(fp_arc
 			(start 8.1336 1.968)
-			(mid 8.1891 2.013505)
+			(mid 8.1892 2.013595)
 			(end 8.1436 2.0691)
 			(stroke
 				(width 0.2)
@@ -26492,7 +26492,7 @@
 		)
 		(fp_arc
 			(start 5.5936 1.968)
-			(mid 5.6491 2.013505)
+			(mid 5.6492 2.013595)
 			(end 5.6036 2.0691)
 			(stroke
 				(width 0.2)
@@ -26503,7 +26503,7 @@
 		)
 		(fp_arc
 			(start 3.0536 1.968)
-			(mid 3.109205 2.01355)
+			(mid 3.109195 2.01354)
 			(end 3.0636 2.0691)
 			(stroke
 				(width 0.2)
@@ -30518,7 +30518,7 @@
 		)
 		(fp_arc
 			(start 17.904 15.812)
-			(mid 17.8484 15.766405)
+			(mid 17.8485 15.766495)
 			(end 17.894 15.7109)
 			(stroke
 				(width 0.2)
@@ -30529,7 +30529,7 @@
 		)
 		(fp_arc
 			(start 15.364 15.812)
-			(mid 15.3084 15.766405)
+			(mid 15.3085 15.766495)
 			(end 15.354 15.7109)
 			(stroke
 				(width 0.2)
@@ -30540,7 +30540,7 @@
 		)
 		(fp_arc
 			(start 12.824 15.812)
-			(mid 12.7684 15.766405)
+			(mid 12.7685 15.766495)
 			(end 12.814 15.7109)
 			(stroke
 				(width 0.2)
@@ -30551,7 +30551,7 @@
 		)
 		(fp_arc
 			(start 10.284 15.812)
-			(mid 10.2284 15.766405)
+			(mid 10.2285 15.766495)
 			(end 10.274 15.7109)
 			(stroke
 				(width 0.2)
@@ -30562,7 +30562,7 @@
 		)
 		(fp_arc
 			(start 7.744 15.812)
-			(mid 7.6884 15.766405)
+			(mid 7.6885 15.766495)
 			(end 7.734 15.7109)
 			(stroke
 				(width 0.2)
@@ -30573,7 +30573,7 @@
 		)
 		(fp_arc
 			(start 5.204 15.812)
-			(mid 5.1484 15.766405)
+			(mid 5.1485 15.766495)
 			(end 5.194 15.7109)
 			(stroke
 				(width 0.2)
@@ -30584,7 +30584,7 @@
 		)
 		(fp_arc
 			(start 2.664 15.812)
-			(mid 2.608505 15.76645)
+			(mid 2.608495 15.766441)
 			(end 2.654 15.7109)
 			(stroke
 				(width 0.2)
@@ -31211,7 +31211,7 @@
 		)
 		(fp_arc
 			(start 17.6311 15.8461)
-			(mid 17.66682 15.849624)
+			(mid 17.66688 15.849675)
 			(end 17.6633 15.8854)
 			(stroke
 				(width 0.2)
@@ -31222,7 +31222,7 @@
 		)
 		(fp_arc
 			(start 15.0911 15.8461)
-			(mid 15.12688 15.849675)
+			(mid 15.12682 15.849624)
 			(end 15.1233 15.8854)
 			(stroke
 				(width 0.2)
@@ -31233,7 +31233,7 @@
 		)
 		(fp_arc
 			(start 12.5511 15.8461)
-			(mid 12.58682 15.849624)
+			(mid 12.58688 15.849675)
 			(end 12.5833 15.8854)
 			(stroke
 				(width 0.2)
@@ -31244,7 +31244,7 @@
 		)
 		(fp_arc
 			(start 10.0111 15.8461)
-			(mid 10.04688 15.849675)
+			(mid 10.04682 15.849624)
 			(end 10.0433 15.8854)
 			(stroke
 				(width 0.2)
@@ -31255,7 +31255,7 @@
 		)
 		(fp_arc
 			(start 7.4711 15.8461)
-			(mid 7.50682 15.849624)
+			(mid 7.50688 15.849675)
 			(end 7.5033 15.8854)
 			(stroke
 				(width 0.2)
@@ -31266,7 +31266,7 @@
 		)
 		(fp_arc
 			(start 4.9311 15.8461)
-			(mid 4.96688 15.849675)
+			(mid 4.96682 15.849624)
 			(end 4.9633 15.8854)
 			(stroke
 				(width 0.2)
@@ -31277,7 +31277,7 @@
 		)
 		(fp_arc
 			(start 2.3911 15.8461)
-			(mid 2.42682 15.849624)
+			(mid 2.42688 15.849675)
 			(end 2.4233 15.8854)
 			(stroke
 				(width 0.2)
@@ -32190,7 +32190,7 @@
 		)
 		(fp_arc
 			(start 18.6366 15.9687)
-			(mid 18.640124 15.93298)
+			(mid 18.640175 15.93292)
 			(end 18.6759 15.9365)
 			(stroke
 				(width 0.2)
@@ -32201,7 +32201,7 @@
 		)
 		(fp_arc
 			(start 16.0966 15.9687)
-			(mid 16.100124 15.93298)
+			(mid 16.100175 15.93292)
 			(end 16.1359 15.9365)
 			(stroke
 				(width 0.2)
@@ -32212,7 +32212,7 @@
 		)
 		(fp_arc
 			(start 13.5566 15.9687)
-			(mid 13.560124 15.93298)
+			(mid 13.560175 15.93292)
 			(end 13.5959 15.9365)
 			(stroke
 				(width 0.2)
@@ -32223,7 +32223,7 @@
 		)
 		(fp_arc
 			(start 11.0166 15.9687)
-			(mid 11.020124 15.93298)
+			(mid 11.020175 15.93292)
 			(end 11.0559 15.9365)
 			(stroke
 				(width 0.2)
@@ -32234,7 +32234,7 @@
 		)
 		(fp_arc
 			(start 8.4766 15.9687)
-			(mid 8.480124 15.93298)
+			(mid 8.480175 15.93292)
 			(end 8.5159 15.9365)
 			(stroke
 				(width 0.2)
@@ -32245,7 +32245,7 @@
 		)
 		(fp_arc
 			(start 5.9366 15.9687)
-			(mid 5.940124 15.93298)
+			(mid 5.940175 15.93292)
 			(end 5.9759 15.9365)
 			(stroke
 				(width 0.2)
@@ -32256,7 +32256,7 @@
 		)
 		(fp_arc
 			(start 3.3966 15.9687)
-			(mid 3.400124 15.93298)
+			(mid 3.400175 15.93292)
 			(end 3.4359 15.9365)
 			(stroke
 				(width 0.2)
@@ -32267,7 +32267,7 @@
 		)
 		(fp_arc
 			(start 17.5575 15.9722)
-			(mid 17.52172 15.968625)
+			(mid 17.52178 15.968676)
 			(end 17.5253 15.9329)
 			(stroke
 				(width 0.2)
@@ -32278,7 +32278,7 @@
 		)
 		(fp_arc
 			(start 15.0175 15.9722)
-			(mid 14.98178 15.968676)
+			(mid 14.98172 15.968625)
 			(end 14.9853 15.9329)
 			(stroke
 				(width 0.2)
@@ -32289,7 +32289,7 @@
 		)
 		(fp_arc
 			(start 12.4775 15.9722)
-			(mid 12.44178 15.968676)
+			(mid 12.44172 15.968625)
 			(end 12.4453 15.9329)
 			(stroke
 				(width 0.2)
@@ -32300,7 +32300,7 @@
 		)
 		(fp_arc
 			(start 9.9375 15.9722)
-			(mid 9.90172 15.968625)
+			(mid 9.90178 15.968676)
 			(end 9.9053 15.9329)
 			(stroke
 				(width 0.2)
@@ -32311,7 +32311,7 @@
 		)
 		(fp_arc
 			(start 7.3975 15.9722)
-			(mid 7.36178 15.968676)
+			(mid 7.36172 15.968625)
 			(end 7.3653 15.9329)
 			(stroke
 				(width 0.2)
@@ -32322,7 +32322,7 @@
 		)
 		(fp_arc
 			(start 4.8575 15.9722)
-			(mid 4.82172 15.968625)
+			(mid 4.82178 15.968676)
 			(end 4.8253 15.9329)
 			(stroke
 				(width 0.2)
@@ -32333,7 +32333,7 @@
 		)
 		(fp_arc
 			(start 2.3175 15.9722)
-			(mid 2.28178 15.968676)
+			(mid 2.28172 15.968625)
 			(end 2.2853 15.9329)
 			(stroke
 				(width 0.2)
@@ -32806,7 +32806,7 @@
 		)
 		(fp_arc
 			(start 18.7627 16.0423)
-			(mid 18.759125 16.07808)
+			(mid 18.759176 16.07802)
 			(end 18.7234 16.0745)
 			(stroke
 				(width 0.2)
@@ -32817,7 +32817,7 @@
 		)
 		(fp_arc
 			(start 16.2227 16.0423)
-			(mid 16.219125 16.07808)
+			(mid 16.219176 16.07802)
 			(end 16.1834 16.0745)
 			(stroke
 				(width 0.2)
@@ -32828,7 +32828,7 @@
 		)
 		(fp_arc
 			(start 13.6827 16.0423)
-			(mid 13.679125 16.07808)
+			(mid 13.679176 16.07802)
 			(end 13.6434 16.0745)
 			(stroke
 				(width 0.2)
@@ -32839,7 +32839,7 @@
 		)
 		(fp_arc
 			(start 11.1427 16.0423)
-			(mid 11.139125 16.07808)
+			(mid 11.139176 16.07802)
 			(end 11.1034 16.0745)
 			(stroke
 				(width 0.2)
@@ -32850,7 +32850,7 @@
 		)
 		(fp_arc
 			(start 8.6027 16.0423)
-			(mid 8.599125 16.07808)
+			(mid 8.599176 16.07802)
 			(end 8.5634 16.0745)
 			(stroke
 				(width 0.2)
@@ -32861,7 +32861,7 @@
 		)
 		(fp_arc
 			(start 6.0627 16.0423)
-			(mid 6.059125 16.07808)
+			(mid 6.059176 16.07802)
 			(end 6.0234 16.0745)
 			(stroke
 				(width 0.2)
@@ -32872,7 +32872,7 @@
 		)
 		(fp_arc
 			(start 3.5227 16.0423)
-			(mid 3.519125 16.07808)
+			(mid 3.519176 16.07802)
 			(end 3.4834 16.0745)
 			(stroke
 				(width 0.2)
@@ -34434,7 +34434,7 @@
 		)
 		(fp_arc
 			(start 18.7968 16.3152)
-			(mid 18.842395 16.2596)
+			(mid 18.842305 16.2597)
 			(end 18.8979 16.3052)
 			(stroke
 				(width 0.2)
@@ -34445,7 +34445,7 @@
 		)
 		(fp_arc
 			(start 16.2568 16.3152)
-			(mid 16.302395 16.2596)
+			(mid 16.302305 16.2597)
 			(end 16.3579 16.3052)
 			(stroke
 				(width 0.2)
@@ -34456,7 +34456,7 @@
 		)
 		(fp_arc
 			(start 13.7168 16.3152)
-			(mid 13.762395 16.2596)
+			(mid 13.762305 16.2597)
 			(end 13.8179 16.3052)
 			(stroke
 				(width 0.2)
@@ -34467,7 +34467,7 @@
 		)
 		(fp_arc
 			(start 11.1768 16.3152)
-			(mid 11.222305 16.2597)
+			(mid 11.222395 16.2596)
 			(end 11.2779 16.3052)
 			(stroke
 				(width 0.2)
@@ -34478,7 +34478,7 @@
 		)
 		(fp_arc
 			(start 8.6368 16.3152)
-			(mid 8.682395 16.2596)
+			(mid 8.682305 16.2597)
 			(end 8.7379 16.3052)
 			(stroke
 				(width 0.2)
@@ -34489,7 +34489,7 @@
 		)
 		(fp_arc
 			(start 6.0968 16.3152)
-			(mid 6.142305 16.2597)
+			(mid 6.142395 16.2596)
 			(end 6.1979 16.3052)
 			(stroke
 				(width 0.2)
@@ -34500,7 +34500,7 @@
 		)
 		(fp_arc
 			(start 3.5568 16.3152)
-			(mid 3.60235 16.259705)
+			(mid 3.602359 16.259695)
 			(end 3.6579 16.3052)
 			(stroke
 				(width 0.2)
@@ -40839,7 +40839,7 @@
 				)
 			)
 		)
-		(property "Value" "2.7k"
+		(property "Value" "3k"
 			(at 0 1.82 90)
 			(layer "F.Fab")
 			(uuid "7a32535f-9fe8-49e8-a484-bf2858b61b35")
@@ -41285,7 +41285,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -41744,7 +41744,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30934.pdf"
+		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/DMN2004WK.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
