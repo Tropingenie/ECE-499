@@ -43477,6 +43477,7 @@
 		(property "Reference" "SW1"
 			(at 0 -19.5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2eee3332-2b09-4fc3-82e2-a5fbb0dc4da5")
 			(effects
 				(font
