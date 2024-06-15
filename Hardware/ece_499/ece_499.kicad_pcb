@@ -46140,6 +46140,39 @@
 			(extension_height 0.58642)
 			(extension_offset 0.5) keep_text_aligned)
 	)
+	(dimension
+		(type aligned)
+		(layer "F.Fab")
+		(uuid "f910f85f-888f-40b0-97e2-e4ca6a08194b")
+		(pts
+			(xy 214 65) (xy 96 65)
+		)
+		(height -41)
+		(gr_text "118.0000 mm"
+			(at 155 104.85 0)
+			(layer "F.Fab")
+			(uuid "f910f85f-888f-40b0-97e2-e4ca6a08194b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
 	(segment
 		(start 167 62.75)
 		(end 169 62.75)
