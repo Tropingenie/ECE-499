@@ -1,0 +1,3 @@
+[submodule "ece-499-test-code"]
+	path = Software
+	url = https://github.com/estarchuk/ece-499-test-code.git
