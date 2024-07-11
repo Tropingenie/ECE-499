@@ -1,3 +1,9 @@
 [submodule "ece-499-test-code"]
-	path = Software
+	path = Software/test-code
 	url = https://github.com/estarchuk/ece-499-test-code.git
+[submodule "ece499_actuator_unit_firmware"]
+	path = Software/actuator-firmware
+	url = https://github.com/estarchuk/ece499_actuator_unit_firmware
+[submodule "ece499_command_unit_firmware"]
+	path = Software/command-firmware
+	url = https://github.com/estarchuk/ece499_command_unit_firmware
