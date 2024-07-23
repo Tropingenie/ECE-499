@@ -7,3 +7,6 @@
 [submodule "ece499_command_unit_firmware"]
 	path = Software/command-firmware
 	url = https://github.com/estarchuk/ece499_command_unit_firmware
+[submodule "ECE-499-Website"]
+	path = Doc
+	url = https://github.com/Tropingenie/ECE-499-Website
