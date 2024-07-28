@@ -11,5 +11,5 @@
 	path = Doc
 	url = https://github.com/Tropingenie/ECE-499-Website
 [submodule "Software/Software/command-firmware-arduino"]
-	path = Software/Software/command-firmware-arduino
+	path = Software/command-firmware-arduino
 	url = https://github.com/estarchuk/ece499_command_unit_firmware_arduino
